@@ -116,17 +116,12 @@ Laptop Speakers
 Gesture-To-Speech-System/
 │
 ├── Arduino_Code/
-│   └── gesture_system.ino
+│   └── arduino_code.ino
 │
 ├── MATLAB_Code/
-│   └── gesture_gui.m
-│
-├── Images/
-│   └── Circuit_Diagram.png
-│
-├── README.md
-│
-└── Project_Report.pdf
+│   └── gesturetospeech.m
+|
+└── README.md
 ```
 
 ---
